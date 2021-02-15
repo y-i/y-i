@@ -28,7 +28,7 @@
 - https://github.com/y-i/oauth-in-action-code
   - https://www.shoeisha.co.jp/book/detail/9784798159294 の実習の実装コード(JavaScript)
 
-#### Tools
+#### Tool
 - https://github.com/y-i/zsh-completion-generator
   - yamlからzshの補完用スクリプトを生成するスクリプト(Ruby)
 - https://github.com/y-i/gyotaku
@@ -42,7 +42,7 @@
 - https://github.com/y-i/slack-word-ranking
   - Slackの発言内容から単語の登場回数のランキングを作るCloudFunctionsで動くbot(JavaScript)
 
-#### Blokcchain
+#### Blockchain
 - https://github.com/y-i/simple-small-blockchain
   - BlockChainの未完成のフルノードとクライアントの実装(JavaScript)
 
