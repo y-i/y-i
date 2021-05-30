@@ -41,6 +41,9 @@
   - electronを用いて画面を録画するアプリケーション(Electron)
 - https://github.com/y-i/slack-word-ranking
   - Slackの発言内容から単語の登場回数のランキングを作るCloudFunctionsで動くbot(JavaScript)
+- https://github.com/y-i/eTLD-match-checker
+  - 入力したドメインからeTLDなどを返すツール&API
+  - http://etld-match-checker.vercel.app/
 
 #### Blockchain
 - https://github.com/y-i/simple-small-blockchain
