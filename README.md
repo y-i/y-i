@@ -44,6 +44,8 @@
 - https://github.com/y-i/eTLD-match-checker
   - 入力したドメインからeTLDなどを返すツール&API
   - http://etld-match-checker.vercel.app/
+- https://gist.github.com/y-i/b71f196bbbf4267c54ff1e4147033457
+  - `setLocalDescription`や`setRemoteDescription`時にSDPの中身を表示するようにするTampermonkey用スクリプト
 
 #### Blockchain
 - https://github.com/y-i/simple-small-blockchain
