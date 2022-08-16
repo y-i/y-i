@@ -29,6 +29,12 @@
   - https://www.shoeisha.co.jp/book/detail/9784798159294 の実習の実装コード(JavaScript)
 
 #### Tool
+- https://github.com/y-i/eTLD-match-checker
+  - 入力したドメインからeTLDなどを返すツール&API
+  - http://etld-match-checker.vercel.app/
+- https://github.com/y-i/k-means-visualize
+  - k-menasを実装して可視化もしたページ
+  - https://y-i.github.io/k-means-visualize/
 - https://github.com/y-i/zsh-completion-generator
   - yamlからzshの補完用スクリプトを生成するスクリプト(Ruby)
 - https://github.com/y-i/gyotaku
@@ -41,9 +47,6 @@
   - electronを用いて画面を録画するアプリケーション(Electron)
 - https://github.com/y-i/slack-word-ranking
   - Slackの発言内容から単語の登場回数のランキングを作るCloudFunctionsで動くbot(JavaScript)
-- https://github.com/y-i/eTLD-match-checker
-  - 入力したドメインからeTLDなどを返すツール&API
-  - http://etld-match-checker.vercel.app/
 - https://gist.github.com/y-i/b71f196bbbf4267c54ff1e4147033457
   - `setLocalDescription`や`setRemoteDescription`時にSDPの中身を表示するようにするTampermonkey用スクリプト
 
