@@ -31,7 +31,7 @@
 #### Tool
 - https://github.com/y-i/eTLD-match-checker
   - 入力したドメインからeTLDなどを返すツール&API
-  - http://etld-match-checker.vercel.app/
+  - https://etld-match-checker.onrender.com/
 - https://github.com/y-i/k-means-visualize
   - k-menasを実装して可視化もしたページ
   - https://y-i.github.io/k-means-visualize/
