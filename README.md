@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**My page: https://ikeda.dev/**
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-i)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
